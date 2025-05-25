@@ -5,3 +5,4 @@ snowflake-connector-python
 streamlit-lottie
 streamlit-option-menu
 pydeck
+altair
