@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Streamlit and cache folders
+.streamlit/
+__pycache__/
+*.pyc
+
+# OS and IDE specific
+.DS_Store
+*.log
+*.db
+.vscode/
+.idea/
+
+# Snowflake or auth secrets
+secrets.toml

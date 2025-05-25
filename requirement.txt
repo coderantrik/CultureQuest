@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+snowflake-connector-python
+streamlit-lottie
+streamlit-option-menu
